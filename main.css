@@ -1,13 +1,27 @@
 /* Fortune Cookie Generator Styles */
 
 html {
+    background-color: lightblue;
     text-align: center;
     padding: 2em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: cooperplate,  fantasy;
+}
+
+h1 {
+  font-family: impact, sans-serfit;
+}
+
+h2 {
+   font-family: impact, sans-serfit;
 }
 
 .fortune-cookie-saying-wrapper {
     border: 1px solid #666;
     padding: 1em;
     margin: 1em;
+}
+
+ul{
+  list-style-type: none;
+
 }
